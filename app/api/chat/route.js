@@ -1,4 +1,3 @@
-import { Exo_2 } from 'next/font/google'
 import {NextResponse} from 'next/server' // Import NextResponse from Next.js for handling responses
 import OpenAI from 'openai' // Import OpenAI library for interacting with the OpenAI API
 
