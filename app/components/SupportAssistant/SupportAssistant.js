@@ -1,7 +1,7 @@
 import { Box, Stack } from '@mui/material';
 import { MessageList } from './MessageList';
 import { MessageInput } from './MessageInput';
-import { useChat } from './useChat.hooks';
+import { useChat } from '../../hooks/useChat.hooks';
 
 export const SupportAssistant = () => {
   const {
