@@ -20,7 +20,7 @@ export const SupportAssistant = () => {
       height="100vh"
       display="flex"
       flexDirection="column"
-      justifyContent="center"
+      paddingTop={8}
       alignItems="center"
     >
       <Stack
